@@ -8,8 +8,6 @@ Welcome to the **Python Quiz Game**, a simple and interactive multiple-choice qu
 - [Customization](#customization)
 - [Code Structure](#code-structure)
 - [Example Usage](#example-usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -107,23 +105,6 @@ Correct!
 Quiz Over!
 Your final score is 1/2.
 ```
-
----
-
-## Contributing
-
-Contributions are welcome! If you’d like to suggest improvements, add new features, or fix issues:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
----
-
-## License
-
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute this software as you see fit.
 
 ---
 
