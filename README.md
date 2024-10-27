@@ -27,7 +27,7 @@ Welcome to the **Python Quiz Game**, a simple and interactive multiple-choice qu
 
 ### Prerequisites
 
-- **Python 3.11**: Make sure Python 3.x is installed on your machine. You can download it [here](https://www.python.org/downloads/).
+- **Python 3.11**: Make sure Python 3.11 is installed on your machine. You can download it [here](https://www.python.org/downloads/release/python-3110/).
 
 ### Installation
 
