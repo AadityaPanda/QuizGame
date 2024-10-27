@@ -53,17 +53,17 @@ quiz_data = [
     {
         "question": "What is the capital of France?",
         "options": ["Berlin", "Madrid", "Paris", "Rome"],
-        "correct_option": 3
+        "answer": 3
     },
     {
         "question": "Which planet is known as the Red Planet?",
         "options": ["Earth", "Venus", "Mars", "Jupiter"],
-        "correct_option": 3
+        "answer": 3
     },
     {
         "question": "Which element has the chemical symbol 'O'?",
         "options": ["Oxygen", "Gold", "Osmium", "Helium"],
-        "correct_option": 1
+        "answer": 1
     }
 ]
 ```
@@ -71,13 +71,13 @@ quiz_data = [
 Each entry in `quiz_data` is a dictionary containing:
 - **`"question"`**: The question text.
 - **`"options"`**: A list of four answer choices.
-- **`"correct_option"`**: An integer (1-4) representing the correct option's position.
+- **`"answer"`**: An integer (1-4) representing the correct option's position.
 
 ---
 
 ## Code Structure
 
-- **`ask_question(question, options, correct_option)`**: Function to display a question and its options, take user input, and check if it’s correct.
+- **`ask_question(question, options, answer)`**: Function to display a question and its options, take user input, and check if it’s correct.
 - **`run_quiz()`**: Main function that loops through the list of questions, tracks the score, and displays feedback.
 - **`if __name__ == "__main__":`**: Ensures that `run_quiz()` only executes if the script is run directly, allowing future import and integration into larger projects.
 
