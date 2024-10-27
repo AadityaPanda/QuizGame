@@ -31,13 +31,13 @@ Welcome to the **Python Quiz Game**, a simple and interactive multiple-choice qu
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/quiz-game.git
-   cd quiz-game
+   git clone https://github.com/AadityaPanda/QuizGame.git
+   cd QuizGame
    ```
 
 2. **Run the quiz game**:
    ```bash
-   python quiz_game.py
+   python QuizGame.py
    ```
 
 ---
