@@ -107,5 +107,3 @@ Your final score is 1/2.
 ```
 
 ---
-
-Enjoy the quiz, and happy coding! 🎉
